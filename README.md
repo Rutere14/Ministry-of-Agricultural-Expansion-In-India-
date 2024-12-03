@@ -57,9 +57,11 @@ Table 4. Program_info
 
 I identified three key tables for my use case: kpi_table1, kpi_table2, and program_info. These tables were uploaded into Tableau, where I performed necessary data integration by joining them. Firstly, I executed an inner join between kpi_table1 and kpi_table2, utilizing common fields such as program, state, and month. Subsequently, I extended this integration by employing a left join between kpi_table1 and program_info on program and state. The resultant dataset for this dashboard encompasses a total of 15 columns and 96 rows, representing a comprehensive compilation of key performance indicators and program information.
 
-![Table joins Overview](images/joins screenshot.png)
+![Table joins Overview](images/table_joins_screenshot.png)
 
 In the construction of my Tableau dashboard, I strategically utilized a calculated field with the expression { FIXED [Month (program info.csv)], [Funding]: MIN([Funding]) }. This calculated field is designed to discern the first funding amount within each distinct month, focusing specifically on the Funding variable from the program_info.csv dataset. The FIXED keyword is employed to establish the level of detail, isolating the calculation to operate at the granularity of each unique month.
+
+![Calcualted Field](images/Calculated_field.png)
 
 
 
