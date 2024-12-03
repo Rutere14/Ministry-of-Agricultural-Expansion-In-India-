@@ -1,0 +1,97 @@
+﻿Program,States,Month,Number of Loans Issued,Number of Training Sessions Conducted,Number of New Businesses Supported
+Samruddhi,Maharashtra,Jun-22,377,52,45
+Samruddhi,Tamil Nadu,Jun-22,481,74,34
+Samruddhi,Gujarat,Jun-22,447,84,14
+Samruddhi,Haryana,Jun-22,314,54,11
+Vikas,Karnataka,Jun-22,297,63,41
+Vikas,Andhra Pradesh,Jun-22,259,21,31
+Vikas,Uttarakhand,Jun-22,255,21,40
+Vikas,Chhattisgarh,Jun-22,289,20,24
+Jeevan,Telangana,Jun-22,476,16,27
+Jeevan,Punjab,Jun-22,488,84,42
+Jeevan,Bihar,Jun-22,265,49,39
+Jeevan,Odisha,Jun-22,362,77,14
+Sarvang,Rajasthan,Jun-22,387,21,48
+Sarvang,Madhya Pradesh,Jun-22,351,10,47
+Sarvang,Kerala,Jun-22,452,98,36
+Sarvang,Jammu and Kashmir,Jun-22,407,66,14
+Samruddhi,Maharashtra,Jul-22,259,71,18
+Samruddhi,Tamil Nadu,Jul-22,211,23,15
+Samruddhi,Gujarat,Jul-22,199,60,18
+Samruddhi,Haryana,Jul-22,291,61,23
+Vikas,Karnataka,Jul-22,237,93,49
+Vikas,Andhra Pradesh,Jul-22,483,68,17
+Vikas,Uttarakhand,Jul-22,190,33,42
+Vikas,Chhattisgarh,Jul-22,408,55,33
+Jeevan,Telangana,Jul-22,255,38,21
+Jeevan,Punjab,Jul-22,368,83,15
+Jeevan,Bihar,Jul-22,454,45,14
+Jeevan,Odisha,Jul-22,258,99,34
+Sarvang,Rajasthan,Jul-22,404,18,23
+Sarvang,Madhya Pradesh,Jul-22,287,11,24
+Sarvang,Kerala,Jul-22,341,22,15
+Sarvang,Jammu and Kashmir,Jul-22,267,34,14
+Samruddhi,Maharashtra,Aug-22,454,81,38
+Samruddhi,Tamil Nadu,Aug-22,449,60,30
+Samruddhi,Gujarat,Aug-22,186,27,49
+Samruddhi,Haryana,Aug-22,293,75,46
+Vikas,Karnataka,Aug-22,392,87,37
+Vikas,Andhra Pradesh,Aug-22,477,55,14
+Vikas,Uttarakhand,Aug-22,311,63,32
+Vikas,Chhattisgarh,Aug-22,252,90,30
+Jeevan,Telangana,Aug-22,383,66,48
+Jeevan,Punjab,Aug-22,185,52,36
+Jeevan,Bihar,Aug-22,254,95,22
+Jeevan,Odisha,Aug-22,488,89,20
+Sarvang,Rajasthan,Aug-22,456,90,44
+Sarvang,Madhya Pradesh,Aug-22,252,67,17
+Sarvang,Kerala,Aug-22,393,66,28
+Sarvang,Jammu and Kashmir,Aug-22,316,34,40
+Samruddhi,Maharashtra,Sep-22,209,62,48
+Samruddhi,Tamil Nadu,Sep-22,195,96,16
+Samruddhi,Gujarat,Sep-22,166,30,18
+Samruddhi,Haryana,Sep-22,478,52,32
+Vikas,Karnataka,Sep-22,492,49,19
+Vikas,Andhra Pradesh,Sep-22,245,39,38
+Vikas,Uttarakhand,Sep-22,353,88,13
+Vikas,Chhattisgarh,Sep-22,158,74,25
+Jeevan,Telangana,Sep-22,303,81,38
+Jeevan,Punjab,Sep-22,368,24,33
+Jeevan,Bihar,Sep-22,429,50,27
+Jeevan,Odisha,Sep-22,426,43,38
+Sarvang,Rajasthan,Sep-22,388,30,24
+Sarvang,Madhya Pradesh,Sep-22,302,32,28
+Sarvang,Kerala,Sep-22,376,13,25
+Sarvang,Jammu and Kashmir,Sep-22,458,81,48
+Samruddhi,Maharashtra,Oct-22,388,87,34
+Samruddhi,Tamil Nadu,Oct-22,445,66,11
+Samruddhi,Gujarat,Oct-22,480,79,18
+Samruddhi,Haryana,Oct-22,370,83,37
+Vikas,Karnataka,Oct-22,407,39,44
+Vikas,Andhra Pradesh,Oct-22,222,13,20
+Vikas,Uttarakhand,Oct-22,338,18,47
+Vikas,Chhattisgarh,Oct-22,478,74,40
+Jeevan,Telangana,Oct-22,255,90,14
+Jeevan,Punjab,Oct-22,195,54,18
+Jeevan,Bihar,Oct-22,416,11,11
+Jeevan,Odisha,Oct-22,392,21,41
+Sarvang,Rajasthan,Oct-22,216,27,43
+Sarvang,Madhya Pradesh,Oct-22,397,35,32
+Sarvang,Kerala,Oct-22,157,52,25
+Sarvang,Jammu and Kashmir,Oct-22,490,18,18
+Samruddhi,Maharashtra,Nov-22,325,39,18
+Samruddhi,Tamil Nadu,Nov-22,417,91,28
+Samruddhi,Gujarat,Nov-22,428,20,27
+Samruddhi,Haryana,Nov-22,390,24,14
+Vikas,Karnataka,Nov-22,353,11,26
+Vikas,Andhra Pradesh,Nov-22,365,25,11
+Vikas,Uttarakhand,Nov-22,167,99,45
+Vikas,Chhattisgarh,Nov-22,466,50,16
+Jeevan,Telangana,Nov-22,499,76,14
+Jeevan,Punjab,Nov-22,234,97,43
+Jeevan,Bihar,Nov-22,150,71,11
+Jeevan,Odisha,Nov-22,350,81,43
+Sarvang,Rajasthan,Nov-22,402,67,25
+Sarvang,Madhya Pradesh,Nov-22,239,62,14
+Sarvang,Kerala,Nov-22,364,32,49
+Sarvang,Jammu and Kashmir,Nov-22,237,18,18
